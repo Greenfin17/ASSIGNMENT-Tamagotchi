@@ -7,9 +7,6 @@
 --Playing
 --Fighting
   
-## Wireframes
-- 
- 
 ## Site link
 - 
 
