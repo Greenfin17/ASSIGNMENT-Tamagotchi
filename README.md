@@ -8,7 +8,9 @@
 --Fighting
   
 ## Site link
-- 
+
+## Wireframe
+https://www.figma.com/file/wvZHVdGy56gDK2SfzhTiwH/Tamagotchi?node-id=0%3A1
 
 ## Project Board
 - https://github.com/Greenfin17/ASSIGNMENT-Tamagotchi/projects/1
