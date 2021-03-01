@@ -25,8 +25,9 @@
 - The user can add their own pet with an image to start the game over.
   
 ## Screenshot
-  
+![Tamagotchi](https://user-images.githubusercontent.com/51683901/109449609-7e2de580-7a0e-11eb-8fe1-fbf994c287bf.PNG)
+
 
 ## Loom Video
-  
+https://www.loom.com/share/1a70bae2d3fc48c89b7f97b6d087346d
   
