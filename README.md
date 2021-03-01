@@ -1,4 +1,4 @@
-# Tamatotchi
+# Tamagotchi
 ## Overview
 - This site mimicks the Tamagotchi toy from the 90's
 - The site show a pet with four types of activities:
