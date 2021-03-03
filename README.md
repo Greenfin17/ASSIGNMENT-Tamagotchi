@@ -8,6 +8,7 @@
 --Fighting
   
 ## Site link
+https://jm-e-pet-tamagotchi.netlify.app/
 
 ## Wireframe
 https://www.figma.com/file/wvZHVdGy56gDK2SfzhTiwH/Tamagotchi?node-id=0%3A1
