@@ -9,6 +9,7 @@
   
 ## Site link
 [![Netlify Status](https://api.netlify.com/api/v1/badges/10052425-0a7e-4921-9b32-3d80c7a15691/deploy-status)](https://app.netlify.com/sites/jm-e-pet-tamagotchi/deploys)
+
 https://jm-e-pet-tamagotchi.netlify.app/
 
 ## Wireframe
